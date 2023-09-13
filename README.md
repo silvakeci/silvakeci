@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/codeit-official-coding-programming-codeit-Y1vohJMVMtjSQxmUot/fullscreen)]
+
 
 <h1 align="center">Hi 👋, I'm Silva Keci</h1>
 <h3 align="center">Code, Creativity, and Coffee: My Front-End Journey ☕</h3>
